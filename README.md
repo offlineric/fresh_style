@@ -15,3 +15,7 @@ how to use
 * and the fonts lol.ttf, and foxy.ttf  if you want working icons for backlinks and menu buttons because i used them
 * you should probably have droid sans as well.
 * also don't forget to take a peek at line 9 so you can personalize your name and avatar ;)
+
+intended results
+================
+![intended results!](http://i.imgur.com/CO2kZvr.png)
