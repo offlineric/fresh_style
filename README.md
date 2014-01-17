@@ -18,4 +18,4 @@ how to use
 
 intended results
 ================
-![intended results!](http://i.imgur.com/CO2kZvr.png)
+![intended results!](http://i.imgur.com/tJ5CHwW.png)
